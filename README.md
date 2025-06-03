@@ -3,9 +3,7 @@ The Formula Founders
 
 Loading....
 
-![Loading](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG94ZWI2YW5nYXB3OGQybWo0bWx0cGs4ejl1eDVmZXF4NWkzbjFmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrptdzZmDlzXF5Gz49/giphy.gif)
-
-
+![Loading](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdvenozbTBrYmh3ZWIwMTlqaXgxa2ludHZobjVlNnR2MWp2aGN2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgzryV9nRCMHPVVXPV/giphy.gif)
 
 This project is under-contruction.
 
