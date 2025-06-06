@@ -191,7 +191,7 @@ config:
   }
 }%%
 mindmap
-  root)"***Annus Mirabilis - 1905*** <br/>**Einstein's Four Papers**"(
+  root)"**Annus Mirabilis - 1905** <br/>*Einstein's Four Papers*"(
     Paper_1))"Paper 1:<br/>Photoelectric Effect [8]"((
       ::icon(fa fa-lightbulb)
       Photons["Introduced the concept of light quanta<br/>(photons)"]
@@ -213,7 +213,7 @@ mindmap
     Paper_4))"Paper 4:<br/>Mass-Energy Equivalence<br/>[9]"((
       ::icon(fa fa-bolt)
       Derived from Special Relativity
-      Famous_equation["Famous equation:<br/>***E = mc²***"]
+      Famous_equation["Famous equation:<br/>**E = mc²**"]
       Showed equivalence of mass and energy
       Profound implications for nuclear physics
 ```
