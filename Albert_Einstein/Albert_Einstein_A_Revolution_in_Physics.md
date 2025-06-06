@@ -802,18 +802,18 @@ flowchart LR
 3.  The Nobel Prize in Physics 1921. NobelPrize.org. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1921/summary/](https://www.nobelprize.org/prizes/physics/1921/summary/)
 4.  Fölsing, A. (1997). *Albert Einstein: A Biography*. Viking.
 5.  ETH Zurich. (n.d.). *Albert Einstein*. Retrieved from [https://ethz.ch/en/the-eth-zurich/portrait/history/albert-einstein.html](https://ethz.ch/en/the-eth-zurich/portrait/history/albert-einstein.html)
-6.  Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik*, 322(10), 891–921. (English translation available in *The Principle of Relativity*, Dover Publications).
-7.  Einstein, A. (1916). Die Grundlage der allgemeinen Relativitätstheorie. *Annalen der Physik*, 354(7), 769–822. (English translation available in *The Principle of Relativity*, Dover Publications).
-8.  Einstein, A. (1905). Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. *Annalen der Physik*, 322(6), 132–148.
-9.  Einstein, A. (1905). Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?. *Annalen der Physik*, 323(13), 639–641.
-10. Einstein, A. (1905). Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. *Annalen der Physik*, 322(8), 549–560.
+6.  Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik*, 322(10), 891–921. (English translation available in *The Principle of Relativity*, Dover Publications). https://doi.org/10.1002/andp.19053221004
+7.  Einstein, A. (1916). Die Grundlage der allgemeinen Relativitätstheorie. *Annalen der Physik*, 354(7), 769–822. (English translation available in *The Principle of Relativity*, Dover Publications). https://doi.org/10.1002/andp.19163540702
+8.  Einstein, A. (1905). Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. *Annalen der Physik*, 322(6), 132–148. https://doi.org/10.1002/andp.19053220607
+9.  Einstein, A. (1905). Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?. *Annalen der Physik*, 323(13), 639–641. https://doi.org/10.1002/andp.19053231314
+10. Einstein, A. (1905). Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. *Annalen der Physik*, 322(8), 549–560. https://doi.org/10.1002/andp.19053220806
 11. Golden, F. (1999, December 31). Person of the Century: Albert Einstein. *TIME Magazine*. Retrieved from [http://content.time.com/time/magazine/article/0,9171,993017,00.html](http://content.time.com/time/magazine/article/0,9171,993017,00.html)
 12. Einstein, A. (1905). *Eine neue Bestimmung der Moleküldimensionen*. University of Zurich. (Doctoral Dissertation)
 13. Wheeler, J. A. (1990). *A Journey Into Gravity and Spacetime*. Scientific American Library. (The quote is widely attributed to Wheeler's popularizations).
 14. Dyson, F. W., Eddington, A. S., & Davidson, C. (1920). A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 220(571-581), 291-333.
-15. Pound, R. V., & Rebka Jr., G. A. (1960). Apparent Weight of Photons. *Physical Review Letters*, 4(7), 337–341.
-16. Einstein, A. (1916). Näherungsweise Integration der Feldgleichungen der Gravitation. *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften (Berlin)*, Seite 688-696.
-17. Abbott, B. P., et al. (LIGO Scientific Collaboration and Virgo Collaboration). (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. *Physical Review Letters*, 116(6), 061102.
+15. Pound, R. V., & Rebka Jr., G. A. (1960). Apparent Weight of Photons. *Physical Review Letters*, 4(7), 337–341. https://doi.org/10.1103/PhysRevLett.4.337
+16. Einstein, A. (1916). Näherungsweise Integration der Feldgleichungen der Gravitation. *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften (Berlin)*, Seite 688-696. 1916SPAW.......688E
+17. Abbott, B. P., et al. (LIGO Scientific Collaboration and Virgo Collaboration). (2016). Observation of Gravitational Waves from a Binary Black Hole Merger. *Physical Review Letters*, 116(6), 061102. https://doi.org/10.1103/PhysRevLett.116.061102
 18. Einstein, A. (1917). Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie. *Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften (Berlin)*, Seite 142-152.
 19. Gamow, G. (1970). *My World Line: An Informal Autobiography*. Viking Press.
 20. Institute for Advanced Study. (n.d.). *Albert Einstein*. Retrieved from [https://www.ias.edu/scholars/einstein](https://www.ias.edu/scholars/einstein)
