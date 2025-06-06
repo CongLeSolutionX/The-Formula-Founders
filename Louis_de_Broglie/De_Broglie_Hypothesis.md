@@ -99,12 +99,12 @@ mindmap
 
 De Broglie's proposal did not emerge in a vacuum. It was built upon several key developments in early 20th-century physics that challenged classical notions:
 
-*   **Planck's Quantum Hypothesis (1900):** Max Planck, to explain black-body radiation, proposed that energy is quantized and emitted or absorbed in discrete packets called quanta ($E = hf$) [5].
-*   **Einstein's Photoelectric Effect (1905):** Albert Einstein extended Planck's idea, suggesting that light itself consists of particles (photons), each with energy $E = hf$ [6]. This established the particle nature of light waves.
-*   **Bohr Model of the Atom (1913):** Niels Bohr proposed a model for the hydrogen atom where electrons orbit the nucleus only in specific, quantized energy levels, without explaining *why* these orbits were stable or quantized [2].
-*   **Symmetry Argument:** De Broglie was motivated by a sense of symmetry in nature. If light, traditionally considered a wave, could exhibit particle-like properties (photons), then perhaps particles, like electrons, could exhibit wave-like properties [1].
+*   **Planck's Quantum Hypothesis (1900):** Max Planck, to explain black-body radiation, proposed that energy is quantized and emitted or absorbed in discrete packets called quanta ($E = hf$)[^5].
+*   **Einstein's Photoelectric Effect (1905):** Albert Einstein extended Planck's idea, suggesting that light itself consists of particles (photons), each with energy $E = hf$[^6]. This established the particle nature of light waves.
+*   **Bohr Model of the Atom (1913):** Niels Bohr proposed a model for the hydrogen atom where electrons orbit the nucleus only in specific, quantized energy levels, without explaining *why* these orbits were stable or quantized[^2].
+*   **Symmetry Argument:** De Broglie was motivated by a sense of symmetry in nature. If light, traditionally considered a wave, could exhibit particle-like properties (photons), then perhaps particles, like electrons, could exhibit wave-like properties[^1].
 
-For light (photons), the energy is $E = hf$ and momentum is $p = E/c = hf/c$. Since $c = f\lambda$ for light, momentum can be written as $p = h/\lambda$. De Broglie boldly hypothesized that this relationship $p = h/\lambda$, or $\lambda = h/p$, should apply to material particles as well [1].
+For light (photons), the energy is $E = hf$ and momentum is $p = E/c = hf/c$. Since $c = f\lambda$ for light, momentum can be written as $p = h/\lambda$. De Broglie boldly hypothesized that this relationship $p = h/\lambda$, or $\lambda = h/p$, should apply to material particles as well[^1].
 
 ```mermaid
 ---
@@ -159,7 +159,7 @@ flowchart TD
 
 ## 3. Mathematical Formulation: The De Broglie Wavelength
 
-The central equation of the De Broglie Hypothesis quantifies the wavelength associated with a particle [1]:
+The central equation of the De Broglie Hypothesis quantifies the wavelength associated with a particle[^1]:
 
 $$
 \lambda = \frac{h}{p}
