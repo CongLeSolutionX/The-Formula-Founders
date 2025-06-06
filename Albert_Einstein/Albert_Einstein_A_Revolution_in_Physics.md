@@ -65,24 +65,24 @@ config:
 mindmap
   root)"Albert Einstein: An Overview"(
     Background))"Background"((
-      Born["Born:<br/>March 14, 1879, Ulm, Germany [4, p. 1]"]
-      Died["Died:<br/>April 18, 1955, Princeton, USA [4, p. 544]"]
-      Education["Education:<br/>ETH Zurich [5]"]
-      Nationality["Nationality:<br/>German, Swiss, Austrian, American [4]"]
+      Born["Born:<br/>March 14, 1879, Ulm, Germany<br/>[4, p. 1]"]
+      Died["Died:<br/>April 18, 1955, Princeton, USA<br/>[4, p. 544]"]
+      Education["Education:<br/>ETH Zurich<br/>[5]"]
+      Nationality["Nationality:<br/>German, Swiss, Austrian, American<br/>[4]"]
     Key_Scientific_Contributions))"Key Scientific Contributions"((
       Theory of Relativity
-        Special_Relativity["Special Relativity<br/>(1905) [6]"]
-        General_Relativity["General Relativity<br/>(1915) [7]"]
-      Photoelectric_Effect["Photoelectric Effect<br/>(1905) [8]"]
-      Mass_Energy_Equivalence["Mass-Energy Equivalence<br/>(E=mc²) (1905) [9]"]
-      Brownian_Motion["Brownian Motion<br/>(1905) [10]"]
+        Special_Relativity["Special Relativity<br/>(1905)<br/>[6]"]
+        General_Relativity["General Relativity<br/>(1915)<br/>[7]"]
+      Photoelectric_Effect["Photoelectric Effect<br/>(1905)<br/>[8]"]
+      Mass_Energy_Equivalence["Mass-Energy Equivalence<br/>(E=mc²)<br/>(1905)<br/>[9]"]
+      Brownian_Motion["Brownian Motion<br/>(1905)<br/>[10]"]
       Quantum Theory Contributions
       Unified_Field_Theory["Unified Field Theory<br/>(Later Work)"]
     Awards_and_Recognition))"Awards & Recognition"((
-      Nobel_Prize_in_Physics["Nobel Prize in Physics<br/>(1921) [3]"]
+      Nobel_Prize_in_Physics["Nobel Prize in Physics<br/>(1921)<br/>[3]"]
       Copley_Medal["Copley Medal<br/>(1925)"]
       Max_Planck_Medal["Max Planck Medal<br/>(1929)"]
-      Time_Person_of_the_Century["Time Person of the Century<br/>(1999) [11]"]
+      Time_Person_of_the_Century["Time Person of the Century<br/>(1999)<br/>[11]"]
     Philosophical_and_Social_Views))"Philosophical & Social Views"((
       Pacifism
       Civil Rights
@@ -191,29 +191,29 @@ config:
   }
 }%%
 mindmap
-  root)"Annus Mirabilis - 1905 <br/> <font color='#cccccc' size='1'>Einstein's Four Papers</font>"(
-    Paper_1))"Paper 1: Photoelectric Effect [8]"((
+  root)"***Annus Mirabilis - 1905*** <br/>**Einstein's Four Papers**"(
+    Paper_1))"Paper 1:<br/>Photoelectric Effect [8]"((
       ::icon(fa fa-lightbulb)
-      Introduced the concept of light quanta (photons)
+      Photons["Introduced the concept of light quanta<br/>(photons)"]
       Explained how light can eject electrons from a material
       Key Foundation for Quantum Theory
-      Nobel_Prize["Nobel Prize (1921) [3]"]
-    Paper_2))"Paper 2: Brownian Motion [10]"((
+      Nobel_Prize["Nobel Prize<br/>(1921)<br/>[3]"]
+    Paper_2))"Paper 2:<br/>Brownian Motion<br/>[10]"((
       ::icon(fa fa-atom)
       Explained the erratic movement of microscopic particles in a fluid
       Provided empirical evidence for the existence of atoms and molecules
       Linked macroscopic observations to microscopic physics
-    Paper_3))"Paper 3: Special Theory of Relativity [6]"((
+    Paper_3))"Paper 3:<br/>Special Theory of Relativity<br/>[6]"((
       ::icon(fa fa-rocket)
       Based on two postulates:
-        Postulates_1["Postulates 1: Principle of Relativity (laws of physics are the same for all inertial observers)"]
-        Postulates_2["Postulates 2: Constancy of the Speed of Light (c is constant for all inertial observers)"]
-      Spacetime["Revolutionized understanding of space and time (spacetime)"]
-      Introduced_concepts["Introduced concepts: time dilation, length contraction"]
-    Paper_4))"Paper 4: Mass-Energy Equivalence [9]"((
+        Postulates_1["Postulates 1:<br/>Principle of Relativity<br/>(laws of physics are the same for all inertial observers)"]
+        Postulates_2["Postulates 2:<br/>Constancy of the Speed of Light (c is constant for all inertial observers)"]
+      Spacetime["Revolutionized understanding of space and time<br/>(spacetime)"]
+      Introduced_concepts["Introduced concepts:<br/>time dilation, length contraction"]
+    Paper_4))"Paper 4:<br/>Mass-Energy Equivalence<br/>[9]"((
       ::icon(fa fa-bolt)
       Derived from Special Relativity
-      Famous_equation["Famous equation: <font color='#90ee90'><b>E = mc²</b></font>"]
+      Famous_equation["Famous equation:<br/>***E = mc²***"]
       Showed equivalence of mass and energy
       Profound implications for nuclear physics
 ```
