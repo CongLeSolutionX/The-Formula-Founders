@@ -71,20 +71,18 @@ config:
   }
 }%%
 flowchart LR
-  My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/MY_GRAPHIC_ASSETS/refs/heads/main/MY_MEME/My-meme-ideas.png", label: "Ăn uống gì chưa ngừi đẹp?", pos: "b", w: 200, h: 150, constraint: "off" }
+  My_Meme@{ img: "https://raw.githubusercontent.com/CongLeSolutionX/CongLeSolutionX/refs/heads/main/assets/images/My-meme-light-bulb-question-marks.png", label: "Ăn uống gì chưa ngừi đẹp?", pos: "b", w: 200, h: 150, constraint: "off" }
 
-  Closing_quote@{ shape: braces, label: "With the right context,<br/>theory become reality" }
+  Closing_quote@{ shape: braces, label: "...searching insights in the process of formulating better questions..." }
     
   My_Meme ~~~ Closing_quote
     
-  Link_to_my_profile{{"<a href='https://github.com/CongLeSolutionX/CongLeSolutionX' target='_blank'>Click here if you care about my profile</a>"}}
+  Link_to_my_profile{{"<a href='https://github.com/CongLeSolutionX' target='_blank'>Click here if you care about my profile</a>"}}
 
   Closing_quote ~~~ My_Meme
   My_Meme animatingEdge@--> Link_to_my_profile
   
   animatingEdge@{ animate: true }
-
-
 
 ```
 
