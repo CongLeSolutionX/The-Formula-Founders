@@ -20,7 +20,7 @@ copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
 
 
 
-# Einsteins Brownian Motion Theory
+# ⚛️ Einsteins Brownian Motion Theory
 > **Disclaimer:**
 >
 > This document contains my personal notes on the topic,
