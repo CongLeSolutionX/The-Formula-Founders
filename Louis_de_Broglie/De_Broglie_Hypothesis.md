@@ -367,12 +367,12 @@ The De Broglie Hypothesis had profound implications:
 
 1.  **Universality of Wave-Particle Duality:** It established that wave-particle duality is not unique to light but a fundamental property of all physical entities[^1, 8].
 2.  **Explanation of Bohr's Quantization:** De Broglie showed that Bohr's condition for stable electron orbits in the hydrogen atom ($m_e v r = n\hbar$) could be interpreted as the electron forming a standing wave around the nucleus. Only orbits whose circumference was an integer multiple of the electron's de Broglie wavelength would allow for a stable standing wave pattern ($2\pi r = n\lambda = nh/p_e \Rightarrow p_e r = n\hbar$)[^1, Ch. I].
-    $$
-    2\pi r = n\lambda \quad (n = 1, 2, 3, \dots)
-    $$
-3.  **Foundation for Schrödinger's Wave Mechanics:** De Broglie's idea of matter waves directly inspired Erwin Schrödinger to develop his famous wave equation, which describes how the wave function (representing the state of a quantum system) evolves over time[^11, Introduction]. The Schrödinger equation is a cornerstone of quantum mechanics.
-4.  **Electron Microscopy:** The wave nature of electrons, with wavelengths much shorter than visible light (for energetic electrons), led to the development of the electron microscope. This allows for much higher resolution imaging than light microscopes, revolutionizing fields like materials science and biology[^12, Ch. 1].
-5.  **Understanding of Particle Behavior:** It provided a framework to understand phenomena like quantum tunneling, where particles can pass through potential barriers even if they don't have enough classical energy to do so—their wave nature allows for a non-zero probability density on the other side of the barrier[^8, Ch. 6].
+
+    $$2\pi r = n\lambda \quad (n = 1, 2, 3, \dots)$$
+    
+4.  **Foundation for Schrödinger's Wave Mechanics:** De Broglie's idea of matter waves directly inspired Erwin Schrödinger to develop his famous wave equation, which describes how the wave function (representing the state of a quantum system) evolves over time[^11, Introduction]. The Schrödinger equation is a cornerstone of quantum mechanics.
+5.  **Electron Microscopy:** The wave nature of electrons, with wavelengths much shorter than visible light (for energetic electrons), led to the development of the electron microscope. This allows for much higher resolution imaging than light microscopes, revolutionizing fields like materials science and biology[^12, Ch. 1].
+6.  **Understanding of Particle Behavior:** It provided a framework to understand phenomena like quantum tunneling, where particles can pass through potential barriers even if they don't have enough classical energy to do so—their wave nature allows for a non-zero probability density on the other side of the barrier[^8, Ch. 6].
 
 ```mermaid
 ---
