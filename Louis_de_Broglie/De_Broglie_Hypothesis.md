@@ -125,7 +125,7 @@ config:
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
     'fontFamily': 'Comic Sans MS, cursive, sans-serif',
     'themeVariables': {
-      'primaryColor': '#F5E3',
+      'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
@@ -205,7 +205,7 @@ config:
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
     'fontFamily': 'Comic Sans MS, cursive, sans-serif',
     'themeVariables': {
-      'primaryColor': '#F5E3',
+      'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
@@ -275,7 +275,7 @@ config:
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
     'fontFamily': 'Comic Sans MS, cursive, sans-serif',
     'themeVariables': {
-      'primaryColor': '#F5E3',
+      'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
@@ -333,7 +333,7 @@ config:
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
     'fontFamily': 'Comic Sans MS, cursive, sans-serif',
     'themeVariables': {
-      'primaryColor': '#F5E3',
+      'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
@@ -393,7 +393,7 @@ config:
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
     'fontFamily': 'Comic Sans MS, cursive, sans-serif',
     'themeVariables': {
-      'primaryColor': '#F5E3',
+      'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
