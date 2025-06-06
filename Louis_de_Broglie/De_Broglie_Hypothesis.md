@@ -566,47 +566,6 @@ mindmap
 ```
 
 ---
-## References
-
-[^1]: De Broglie, L. (1925). Recherches sur la théorie des quanta (Researches on the quantum theory). *Annales de Physique*, 10(3), 22-128. (English translation available: L. de Broglie, "On the Theory of Quanta," *Ann. Found. Louis de Broglie*, **17**, 1992). (Original PhD Thesis, 1924).
-
-[^2]: Bohr, N. (1913). On the Constitution of Atoms and Molecules, Part I. *Philosophical Magazine*, 26(151), 1-25.
-
-[^3]: Davisson, C. J., & Germer, L. H. (1927). Diffraction of Electrons by a Crystal of Nickel. *Physical Review*, 30(6), 705-740. (A public domain version may be found through university archives or APS public access initiatives).
-
-[^4]: Thomson, G. P. (1927). The Diffraction of Cathode Rays by Thin Films of Platinum. *Nature*, 119(3007), 890. (Also published more extensively in *Proc. Roy. Soc. A*, **117**, 600-609 (1928) "Experiments on the Diffraction of Cathode Rays").
-
-[^5]: Planck, M. (1901). Ueber das Gesetz der Energieverteilung im Normalspectrum. *Annalen der Physik*, 309(3), 553-563.
-
-[^6]: Einstein, A. (1905). Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. *Annalen der Physik*, 322(6), 132-148.
-
-[^7]: National Institute of Standards and Technology (NIST). (2019). CODATA Value: Planck constant. *NIST Physical Measurement Laboratory*. Retrieved from [https://physics.nist.gov/cgi-bin/cuu/Value?h](https://physics.nist.gov/cgi-bin/cuu/Value?h)
-
-[^8]: Eisberg, R., & Resnick, R. (1985). *Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles* (2nd ed.). John Wiley & Sons.
-
-[^9]: The Nobel Prize in Physics 1929. *NobelPrize.org*. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1929/summary/](https://www.nobelprize.org/prizes/physics/1929/summary/)
-
-[^10]: The Nobel Prize in Physics 1937. *NobelPrize.org*. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1937/summary/](https://www.nobelprize.org/prizes/physics/1937/summary/)
-
-[^11]: Schrödinger, E. (1926). Quantisierung also Eigenwertproblem (Quantization as an Eigenvalue Problem). *Annalen der Physik*, 384(4), 361-376. (And subsequent papers in the series).
-
-[^12]: Williams, D. B., & Carter, C. B. (2009). *Transmission Electron Microscopy: A Textbook for Materials Science* (2nd ed.). Springer.
-
-[^13]: Born, M. (1926). Zur Quantenmechanik der Stoßvorgänge (On the Quantum Mechanics of Collision Processes). *Zeitschrift für Physik*, 37(12), 863-867.
-
-[^14]: Griffiths, D. J., & Schroeter, D. F. (2018). *Introduction to Quantum Mechanics* (3rd ed.). Cambridge University Press. (See Chapter 2 on Wave Packets).
-
-[^15]: Peskin, M. E., & Schroeder, D. V. (1995). *An Introduction to Quantum Field Theory*. Addison-Wesley Publishing Company (now CRC Press).
-
-----
-
-*(Note: Access to original journal articles may require institutional subscriptions or purchase. Publicly accessible versions are often linked from university repositories, author websites, or archives like arXiv for pre-prints. Government-funded research often has public access mandates, but this typically applies to more recent work. Nobel Prize websites and NIST are directly accessible public government/institutional resources.)*
-
-
-
-
-
----
 
 <!-- 
 ```mermaid
@@ -656,6 +615,45 @@ flowchart LR
   animatingEdge@{ animate: true }
 
 ```
+
+---
+
+## References
+
+[^1]: De Broglie, L. (1925). Recherches sur la théorie des quanta (Researches on the quantum theory). *Annales de Physique*, 10(3), 22-128. (English translation available: L. de Broglie, "On the Theory of Quanta," *Ann. Found. Louis de Broglie*, **17**, 1992). (Original PhD Thesis, 1924).
+
+[^2]: Bohr, N. (1913). On the Constitution of Atoms and Molecules, Part I. *Philosophical Magazine*, 26(151), 1-25.
+
+[^3]: Davisson, C. J., & Germer, L. H. (1927). Diffraction of Electrons by a Crystal of Nickel. *Physical Review*, 30(6), 705-740. (A public domain version may be found through university archives or APS public access initiatives).
+
+[^4]: Thomson, G. P. (1927). The Diffraction of Cathode Rays by Thin Films of Platinum. *Nature*, 119(3007), 890. (Also published more extensively in *Proc. Roy. Soc. A*, **117**, 600-609 (1928) "Experiments on the Diffraction of Cathode Rays").
+
+[^5]: Planck, M. (1901). Ueber das Gesetz der Energieverteilung im Normalspectrum. *Annalen der Physik*, 309(3), 553-563.
+
+[^6]: Einstein, A. (1905). Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt. *Annalen der Physik*, 322(6), 132-148.
+
+[^7]: National Institute of Standards and Technology (NIST). (2019). CODATA Value: Planck constant. *NIST Physical Measurement Laboratory*. Retrieved from [https://physics.nist.gov/cgi-bin/cuu/Value?h](https://physics.nist.gov/cgi-bin/cuu/Value?h)
+
+[^8]: Eisberg, R., & Resnick, R. (1985). *Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles* (2nd ed.). John Wiley & Sons.
+
+[^9]: The Nobel Prize in Physics 1929. *NobelPrize.org*. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1929/summary/](https://www.nobelprize.org/prizes/physics/1929/summary/)
+
+[^10]: The Nobel Prize in Physics 1937. *NobelPrize.org*. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1937/summary/](https://www.nobelprize.org/prizes/physics/1937/summary/)
+
+[^11]: Schrödinger, E. (1926). Quantisierung also Eigenwertproblem (Quantization as an Eigenvalue Problem). *Annalen der Physik*, 384(4), 361-376. (And subsequent papers in the series).
+
+[^12]: Williams, D. B., & Carter, C. B. (2009). *Transmission Electron Microscopy: A Textbook for Materials Science* (2nd ed.). Springer.
+
+[^13]: Born, M. (1926). Zur Quantenmechanik der Stoßvorgänge (On the Quantum Mechanics of Collision Processes). *Zeitschrift für Physik*, 37(12), 863-867.
+
+[^14]: Griffiths, D. J., & Schroeter, D. F. (2018). *Introduction to Quantum Mechanics* (3rd ed.). Cambridge University Press. (See Chapter 2 on Wave Packets).
+
+[^15]: Peskin, M. E., & Schroeder, D. V. (1995). *An Introduction to Quantum Field Theory*. Addison-Wesley Publishing Company (now CRC Press).
+
+----
+
+*(Note: Access to original journal articles may require institutional subscriptions or purchase. Publicly accessible versions are often linked from university repositories, author websites, or archives like arXiv for pre-prints. Government-funded research often has public access mandates, but this typically applies to more recent work. Nobel Prize websites and NIST are directly accessible public government/institutional resources.)*
+
 
 ---
 >**Licenses:**
