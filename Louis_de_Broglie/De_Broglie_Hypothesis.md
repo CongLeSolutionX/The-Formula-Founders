@@ -36,7 +36,7 @@ copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
 
 ## 1. Introduction: The Wave Nature of Matter
 
-The De Broglie Hypothesis, proposed by French physicist Louis de Broglie in his 1924 PhD thesis[^1], revolutionized our understanding of the fundamental nature of matter. It posits that **all matter exhibits wave-like properties**, meaning particles such as electrons, protons, and even macroscopic objects possess an associated wavelength. This concept generalized the wave-particle duality previously observed for light, suggesting it as a universal principle. De Broglie's insight was a cornerstone in the development of quantum mechanics, providing a physical basis for the quantization rules in Bohr's atomic model [2] and paving the way for Schrödinger's wave equation.
+The De Broglie Hypothesis, proposed by French physicist Louis de Broglie in his 1924 PhD thesis[^1], revolutionized our understanding of the fundamental nature of matter. It posits that **all matter exhibits wave-like properties**, meaning particles such as electrons, protons, and even macroscopic objects possess an associated wavelength. This concept generalized the wave-particle duality previously observed for light, suggesting it as a universal principle. De Broglie's insight was a cornerstone in the development of quantum mechanics, providing a physical basis for the quantization rules in Bohr's atomic model [^2] and paving the way for Schrödinger's wave equation.
 
 ```mermaid
 ---
@@ -570,7 +570,7 @@ mindmap
 
 [^1]: De Broglie, L. (1925). Recherches sur la théorie des quanta (Researches on the quantum theory). *Annales de Physique*, 10(3), 22-128. (English translation available: L. de Broglie, "On the Theory of Quanta," *Ann. Found. Louis de Broglie*, **17**, 1992). (Original PhD Thesis, 1924).
 
-[2] Bohr, N. (1913). On the Constitution of Atoms and Molecules, Part I. *Philosophical Magazine*, 26(151), 1-25.
+[^2]: Bohr, N. (1913). On the Constitution of Atoms and Molecules, Part I. *Philosophical Magazine*, 26(151), 1-25.
 
 [3] Davisson, C. J., & Germer, L. H. (1927). Diffraction of Electrons by a Crystal of Nickel. *Physical Review*, 30(6), 705-740. (A public domain version may be found through university archives or APS public access initiatives).
 
