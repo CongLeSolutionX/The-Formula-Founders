@@ -51,7 +51,7 @@ config:
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%{
   init: {
-    'fontFamily': 'Monaco',
+    'fontFamily': 'American Typewriter',
     'mindmap': {
 	    'nodeAlign': 'center',
 	    'padding': 20
@@ -123,7 +123,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
-    'fontFamily': 'Comic Sans MS, cursive, sans-serif',
+    'fontFamily': 'American Typewriter, cursive, sans-serif',
     'themeVariables': {
       'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
@@ -132,7 +132,7 @@ config:
       'secondaryColor': '#EBDEF0',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
-      'fontSize': '15px'
+      'fontSize': '20px'
     }
   }
 }%%
@@ -203,7 +203,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
-    'fontFamily': 'Comic Sans MS, cursive, sans-serif',
+    'fontFamily': 'American Typewriter, cursive, sans-serif',
     'themeVariables': {
       'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
@@ -212,7 +212,7 @@ config:
       'secondaryColor': '#EBDEF0',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
-      'fontSize': '15px'
+      'fontSize': '20px'
     }
   }
 }%%
@@ -273,7 +273,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
-    'fontFamily': 'Comic Sans MS, cursive, sans-serif',
+    'fontFamily': 'American Typewriter, cursive, sans-serif',
     'themeVariables': {
       'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
@@ -282,7 +282,7 @@ config:
       'secondaryColor': '#EBDEF0',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
-      'fontSize': '15px'
+      'fontSize': '20px'
     }
   }
 }%%
@@ -331,7 +331,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
-    'fontFamily': 'Comic Sans MS, cursive, sans-serif',
+    'fontFamily': 'American Typewriter, cursive, sans-serif',
     'themeVariables': {
       'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
@@ -340,7 +340,7 @@ config:
       'secondaryColor': '#EBDEF0',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
-      'fontSize': '15px'
+      'fontSize': '20px'
     }
   }
 }%%
@@ -391,7 +391,7 @@ config:
 %%{
   init: {
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
-    'fontFamily': 'Comic Sans MS, cursive, sans-serif',
+    'fontFamily': 'American Typewriter, cursive, sans-serif',
     'themeVariables': {
       'primaryColor': '#F225E3',
       'primaryTextColor': '#145A32',
@@ -400,7 +400,7 @@ config:
       'secondaryColor': '#EBDEF0',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
-      'fontSize': '15px'
+      'fontSize': '20px'
     }
   }
 }%%
@@ -504,7 +504,7 @@ config:
 %%%%%%%% Mermaid version v11.4.1-b.14
 %%{
   init: {
-    'fontFamily': 'Monaco',
+    'fontFamily': 'American Typewriter',
     'mindmap': {
 	    'nodeAlign': 'center',
 	    'padding': 20
