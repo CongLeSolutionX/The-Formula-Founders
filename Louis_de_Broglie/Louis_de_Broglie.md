@@ -185,6 +185,10 @@ gantt
 
 De Broglie hailed from a distinguished aristocratic family.
 
+<details open>
+<summary>Click to show/hide the full native DOT implementation.</summary>
+
+
 ```dot
 /*
  * title: Family and Ancestry
@@ -221,6 +225,10 @@ digraph BroglieFamily {
     }
 }
 ```
+
+</details>
+
+
 
 ---
 
