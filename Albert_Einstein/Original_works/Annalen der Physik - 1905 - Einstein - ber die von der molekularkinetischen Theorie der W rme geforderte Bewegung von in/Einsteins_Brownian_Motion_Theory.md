@@ -96,7 +96,7 @@ mindmap
 
 ---
 
-# ↙|💧🧂|↗ 1 & 2: Osmotic Pressure and its Molecular-Kinetic Basis
+# 💧|🧂 §1 & §2: Osmotic Pressure and its Molecular-Kinetic Basis
 
 Einstein begins by considering the osmotic pressure exerted by solute molecules or suspended particles. He draws an analogy to the ideal gas law.
 
