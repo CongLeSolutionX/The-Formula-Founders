@@ -256,11 +256,11 @@ config:
     'flowchart': { 'htmlLabels': true, 'curve': 'linear' },
     'fontFamily': 'Andale Mono, monospace',
     'themeVariables': {
-      'primaryColor': '#99BB',
-      'primaryTextColor': '#145A32',
+      'primaryColor': '#2BB',
+      'primaryTextColor': '#F8B229',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
-      'secondaryColor': '#EBDEF0',
+      'secondaryColor': '#E2F1',
       'secondaryTextColor': '#6C3483',
       'secondaryBorderColor': '#A569BD',
       'fontSize': '20px'
@@ -272,7 +272,7 @@ flowchart TD
         A["Incident Light <br/> (Stream of Photons <font color='#90ee90'>E = hf</font>)"] --> B{"Metal Surface <br/> (Work Function <font color='#90ee90'>&phi;</font>)"}
         B -- "Photon Energy <br/> <font color='#ff6347'>hf < &phi;</font>" --> C["No Electron Emission"]
         B -- "Photon Energy <br/> <font color='#90ee90'>hf &ge; &phi;</font>" --> D["Electron Emission"]
-        D --> E["Emitted Electron <br/> (Kinetic Energy <font color='#90ee90'>K<sub>max</sub> = hf - &phi;</font>)"]
+        D --> E["Emitted Electron <br/> (Kinetic Energy <br/> <font color='#90ee90'>K<sub>max</sub> = hf - &phi;</font>)"]
     end
     style A fill:#224,stroke:#fff,stroke-width:2px
     style B fill:#335,stroke:#fff,stroke-width:2px
@@ -586,15 +586,15 @@ mindmap
     Science_and_Religion))"Science & Religion"((
       ::icon(fa fa-atom)
       ::icon(fa fa-pray)
-      Belief_in_a_Spinozistic_God["Belief in a Spinozistic God (harmony of nature)"]
+      Belief_in_a_Spinozistic_God["Belief in a Spinozistic God<br/>(harmony of nature)"]
       Not a personal, interventionist God
       Cosmic_religious_feeling["**Cosmic religious feeling**"]
-      Science_and_religion_belief["**Science without religion is lame, religion without science is blind.** [25]"]
+      Science_and_religion_belief["**Science without religion is lame, religion without science is blind.** <br/>[25]"]
     Democratic_Socialism))"Democratic Socialism"((
       ::icon(fa fa-balance-scale)
       Critique of capitalism
       Advocacy for a planned economy
-      Emphasis_on_individual_rights["Emphasis on individual rights within a socialist framework (essay **Why Socialism?**) [26]"]
+      Emphasis_on_individual_rights["Emphasis on individual rights within a socialist framework (essay **Why Socialism?**)<br/>[26]"]
     Education_and_Free_Thought))"Education & Free Thought"((
       ::icon(fa fa-graduation-cap)
       Championed critical thinking and intellectual freedom
