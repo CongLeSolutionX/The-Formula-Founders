@@ -294,22 +294,16 @@ Einstein now has two independent equations involving $N$ and $P$:
     On page 20, he uses $\varphi = n \cdot \frac{4}{3}\pi P^3$, where $n$ is the number of molecules per unit volume. If $\rho_s$ is the density of the solute substance and $\text{conc}$ is the concentration in mass per unit volume, then $\varphi = \text{conc} / \rho_s$. If $c_{\text{molar}}$ is molar concentration, $n = N c_{\text{molar}}$.  
     The equation from viscosity can be written as (page 20 reference, for the quantity $N P^3$ if $\varphi$ is properly defined in terms of $N, P$ concentration):
 
-    $$
-    N P^3 = \frac{3m}{4\pi \rho_0} \left( \frac{k^*}{k} - 1 \right) \quad \text{(derived from } \varphi = \frac{N \text{ (conc in moles/vol)} \cdot \frac{4}{3}\pi P^3}{\text{Volume}} \text{ and relating to } (k^*/k - 1)\text{)}
-    $$
+    $$N P^3 = \frac{3m}{4\pi \rho_0} \left( \frac{k^*}{k} - 1 \right) \quad \text{(derived from } \varphi = \frac{N \text{ (conc in moles/vol)} \cdot \frac{4}{3}\pi P^3}{\text{Volume}} \text{ and relating to } (k^*/k - 1)\text{)}$$
 
     More directly from page 21, relationship (A):
-
-    $$
-    N P^3 = \frac{3}{4\pi} \frac{m}{\rho_s} \left( \frac{k^*}{k} - 1 \right)
-    $$
+    
+    $$N P^3 = \frac{3}{4\pi} \frac{m}{\rho_s} \left( \frac{k^*}{k} - 1 \right)$$
 
     (Where $m$ is molar mass, $\rho_s$ is the density of the solute material, $(k^*/k - 1)$ is per unit concentration mass/volume)  
     Actually, Einstein on page 21 writes:
 
-    $$
-    N P^3 = \frac{3m}{4\pi\sigma} \left(\frac{k^*}{k_0}-1\right)
-    $$
+    $$N P^3 = \frac{3m}{4\pi\sigma} \left(\frac{k^*}{k_0}-1\right)$$
 
     Where $\sigma$ is specific gravity of sugar and $(k^*/k_0-1)$ is per gram of sugar in solution.  
     The term for $N P^3$ is given more generally by (page 21, combining earlier results for $\varphi$):
