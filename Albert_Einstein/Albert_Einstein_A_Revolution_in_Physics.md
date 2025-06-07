@@ -31,7 +31,7 @@ copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
 > 2. **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
 ---
 
-Albert Einstein (1879-1955) was a German-born theoretical physicist who is widely hailed as one of the most influential scientists of the 20th century and of all time. He developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics)[^1]. His work is also known for its influence on the philosophy of science. Einstein is best known by the general public for his mass–energy equivalence formula $E = mc^2$, which has been dubbed "the world's most famous equation" [2, p. 231]. He received the 1921 Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect" [3], a pivotal step in the development of quantum theory.
+Albert Einstein (1879-1955) was a German-born theoretical physicist who is widely hailed as one of the most influential scientists of the 20th century and of all time. He developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics)[^1]. His work is also known for its influence on the philosophy of science. Einstein is best known by the general public for his mass–energy equivalence formula $E = mc^2$, which has been dubbed "the world's most famous equation" [2, p. 231]. He received the 1921 Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect"[^3], a pivotal step in the development of quantum theory.
 
 ```mermaid
 ---
@@ -153,7 +153,7 @@ gantt
 ```
 *<b>Note:</b> Durations in the Gantt chart are illustrative of the period during which the event was current or ongoing, not necessarily the exact length of the event itself where it's a point in time.*
 
-After graduation, Einstein struggled to find a teaching post. A friend's father, Marcel Grossmann, helped him secure a position as an assistant examiner at the Swiss Patent Office in Bern in 1902 [4, p. 65]. This job provided him with a stable income and, crucially, the time and freedom to pursue his groundbreaking theoretical work. He obtained his PhD from the University of Zurich in 1905 with a dissertation titled "A New Determination of Molecular Dimensions" [12].
+After graduation, Einstein struggled to find a teaching post. A friend's father, Marcel Grossmann, helped him secure a position as an assistant examiner at the Swiss Patent Office in Bern in 1902 [4, p. 65]. This job provided him with a stable income and, crucially, the time and freedom to pursue his groundbreaking theoretical work. He obtained his PhD from the University of Zurich in 1905 with a dissertation titled "A New Determination of Molecular Dimensions"[^12].
 
 ---
 
@@ -799,7 +799,7 @@ flowchart LR
 
 [^1]:  Pais, A. (1982). *'Subtle is the Lord…': The Science and the Life of Albert Einstein*. Oxford University Press.
 2.  Isaacson, W. (2007). *Einstein: His Life and Universe*. Simon & Schuster.
-3.  The Nobel Prize in Physics 1921. NobelPrize.org. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1921/summary/](https://www.nobelprize.org/prizes/physics/1921/summary/)
+[^3]:  The Nobel Prize in Physics 1921. NobelPrize.org. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1921/summary/](https://www.nobelprize.org/prizes/physics/1921/summary/)
 4.  Fölsing, A. (1997). *Albert Einstein: A Biography*. Viking.
 5.  ETH Zurich. (n.d.). *Albert Einstein*. Retrieved from [https://ethz.ch/en/the-eth-zurich/portrait/history/albert-einstein.html](https://ethz.ch/en/the-eth-zurich/portrait/history/albert-einstein.html)
 6.  Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik*, 322(10), 891–921. (English translation available in *The Principle of Relativity*, Dover Publications). https://doi.org/10.1002/andp.19053221004
@@ -808,7 +808,7 @@ flowchart LR
 9.  Einstein, A. (1905). Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?. *Annalen der Physik*, 323(13), 639–641. https://doi.org/10.1002/andp.19053231314
 10. Einstein, A. (1905). Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. *Annalen der Physik*, 322(8), 549–560. https://doi.org/10.1002/andp.19053220806
 11. Golden, F. (1999, December 31). Person of the Century: Albert Einstein. *TIME Magazine*. Retrieved from [http://content.time.com/time/magazine/article/0,9171,993017,00.html](http://content.time.com/time/magazine/article/0,9171,993017,00.html)
-12. Einstein, A. (1905). *Eine neue Bestimmung der Moleküldimensionen*. University of Zurich. (Doctoral Dissertation)
+[^12]: Einstein, A. (1905). *Eine neue Bestimmung der Moleküldimensionen*. University of Zurich. (Doctoral Dissertation)
 13. Wheeler, J. A. (1990). *A Journey Into Gravity and Spacetime*. Scientific American Library. (The quote is widely attributed to Wheeler's popularizations).
 14. Dyson, F. W., Eddington, A. S., & Davidson, C. (1920). A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 220(571-581), 291-333.
 15. Pound, R. V., & Rebka Jr., G. A. (1960). Apparent Weight of Photons. *Physical Review Letters*, 4(7), 337–341. https://doi.org/10.1103/PhysRevLett.4.337
