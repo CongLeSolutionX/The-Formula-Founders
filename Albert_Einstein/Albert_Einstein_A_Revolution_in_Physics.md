@@ -808,7 +808,7 @@ flowchart LR
 9.  Einstein, A. (1905). Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?. *Annalen der Physik*, 323(13), 639–641. https://doi.org/10.1002/andp.19053231314
 10. Einstein, A. (1905). Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen. *Annalen der Physik*, 322(8), 549–560. https://doi.org/10.1002/andp.19053220806
 11. Golden, F. (1999, December 31). Person of the Century: Albert Einstein. *TIME Magazine*. Retrieved from [http://content.time.com/time/magazine/article/0,9171,993017,00.html](http://content.time.com/time/magazine/article/0,9171,993017,00.html)
-[^12]: Einstein, A. (1905). *Eine neue Bestimmung der Moleküldimensionen*. University of Zurich. (Doctoral Dissertation)
+[^12]: Einstein, A. (1905). *Eine neue Bestimmung der Moleküldimensionen*. University of Zurich. (Doctoral Dissertation). https://www.uzh.ch/dam/jcr:09fdbf63-acaa-41d3-affd-4b0d2905dbfc/UZH_Einstein_Alumnus.pdf
 13. Wheeler, J. A. (1990). *A Journey Into Gravity and Spacetime*. Scientific American Library. (The quote is widely attributed to Wheeler's popularizations).
 14. Dyson, F. W., Eddington, A. S., & Davidson, C. (1920). A Determination of the Deflection of Light by the Sun's Gravitational Field, from Observations Made at the Total Eclipse of May 29, 1919. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 220(571-581), 291-333.
 15. Pound, R. V., & Rebka Jr., G. A. (1960). Apparent Weight of Photons. *Physical Review Letters*, 4(7), 337–341. https://doi.org/10.1103/PhysRevLett.4.337
