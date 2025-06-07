@@ -283,15 +283,20 @@ LightQuanta .. N1
 # ✨ §7: Stokes' Rule
 
 Stokes' rule in photoluminescence states that the wavelength of emitted light is usually longer than (or equal to) the wavelength of the absorbed light that excites the luminescence. In terms of frequency ($\nu = c/\lambda$):  
-$$ \nu_{emitted} \le \nu_{absorbed} $$  
+
+$$ \nu_{emitted} \le \nu_{absorbed} $$
+
 Einstein provides a simple explanation using light quanta (p. 144):  
 If an incident light quantum of energy $\frac{R}{N}\beta\nu_1$ is absorbed and a new light quantum of energy $\frac{R}{N}\beta\nu_2$ is emitted (some energy might be converted to other forms like heat), then by energy conservation:
+
 $$
 \frac{R}{N}\beta\nu_2 \le \frac{R}{N}\beta\nu_1
 $$
+
 $$
 \implies \nu_2 \le \nu_1
 $$
+
 This is precisely Stokes' rule.
 
 ----
@@ -310,13 +315,17 @@ He proposed that light of frequency $\nu$ consists of quanta, each with energy $
 *   The remaining energy appears as the maximum kinetic energy ($\Pi_e$) of the emitted electron.
 
 **The Photoelectric Equation (p. 146):**
+
 $$
 \Pi_e = \frac{R}{N} \beta \nu - P
 $$
+
 Or, more commonly written today as:
+
 $$
 K.E._{max} = h \nu - \Phi
 $$
+
 ($\Phi$ is the work function, equivalent to $P$).
 
 This beautifully explains the experimental observations:
@@ -395,9 +404,11 @@ Einstein cites Lenard's experiments (e.g., P. Lenard, Ann. d. Phys. 8. p. 169 u.
 # ⚡ §9: Ionization of Gases by Ultraviolet Light
 
 Einstein briefly applies the quantum concept to the ionization of gases by UV light (p. 148). If $J$ is the energy required to ionize a gas molecule, then a light quantum can cause ionization only if its energy is sufficient:
+
 $$
 \frac{R}{N} \beta \nu \ge J
 $$
+
 Or, $h\nu \ge J$. This explains why there's a minimum frequency (maximum wavelength) for UV light to ionize a particular gas.
 
 ----
