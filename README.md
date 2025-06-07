@@ -4,6 +4,9 @@ The Formula Founders
 Loading....
 
 ![Loading](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdvenozbTBrYmh3ZWIwMTlqaXgxa2ludHZobjVlNnR2MWp2aGN2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RgzryV9nRCMHPVVXPV/giphy.gif)
+>
+> gif image is provided by [Giphy](https://giphy.com)
+> 
 
 This project is under-contruction.
 
