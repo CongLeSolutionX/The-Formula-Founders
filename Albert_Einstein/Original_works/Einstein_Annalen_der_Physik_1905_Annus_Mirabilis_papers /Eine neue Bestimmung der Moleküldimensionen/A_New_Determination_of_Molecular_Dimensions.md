@@ -124,20 +124,27 @@ Einstein starts by considering an incompressible fluid with a coefficient of fri
 **Governing Equations (Page 8, Eq. 4):**  
 The pressure is $p$, and $\Delta$ is the Laplacian operator $\left(\frac{\partial^2}{\partial \xi^2} + \frac{\partial^2}{\partial \eta^2} + \frac{\partial^2}{\partial \zeta^2}\right)$. The coordinates $\xi, \eta, \zeta$ are relative to the center of the sphere.  
 For the fluid velocity components $u, v, w$ (here denoted $u_t, v_t, w_t$ (Einstein uses $u,v,w$ or $u_1,v_1,w_1$) and pressure $p$:
+
 1.  **Momentum Equations (Stokes Flow):**
+
     $$
     \frac{\partial p}{\partial \xi} = k \Delta u
     $$
+    
     $$
     \frac{\partial p}{\partial \eta} = k \Delta v
     $$
+
     $$
     \frac{\partial p}{\partial \zeta} = k \Delta w
     $$
-2.  **Continuity Equation (Incompressibility):**
+
+3.  **Continuity Equation (Incompressibility):**
+
     $$
     \frac{\partial u}{\partial \xi} + \frac{\partial v}{\partial \eta} + \frac{\partial w}{\partial \zeta} = 0
     $$
+
 From these, it follows that $\Delta p = 0$.
 
 Einstein then solves these equations with boundary conditions:
@@ -146,6 +153,7 @@ Einstein then solves these equations with boundary conditions:
 
 **Solution for Flow (Page 7, Eq. 1 & 3; Page 9, Eq. 5; Page 12, Eq. 6a):**  
 If the undisturbed flow is given by $u_0 = A\xi, v_0 = B\eta, w_0 = C\zeta$ (with $A+B+C=0$ for incompressibility), the presence of the sphere modifies this flow. The actual velocities $u,v,w$ in the fluid are (from page 12, eq. 6a, simplified forms, after complex derivations):
+
 $$
 \begin{cases}
 u = A\xi - \frac{5}{2}k P^3 \frac{\xi}{r^5}(A\xi^2 + B\eta^2 + C\zeta^2) + \dots \\
@@ -153,7 +161,9 @@ v = B\eta - \frac{5}{2}k P^3 \frac{\eta}{r^5}(A\xi^2 + B\eta^2 + C\zeta^2) + \do
 w = C\zeta - \frac{5}{2}k P^3 \frac{\zeta}{r^5}(A\xi^2 + B\eta^2 + C\zeta^2) + \dots
 \end{cases}
 $$
+
 (Note: The exact form presented in the dissertation, like page 9, Eq. 5 and page 12 Eq. 6a can be quite involved depending on the specific functions $D$ and constants chosen. Page 12, Eq. 6a presents:
+
 $$
 \begin{cases}
 u = A\xi - \frac{5}{2} P^3 \frac{A\xi^2 + B\eta^2 + C\zeta^2}{r^5}\xi + \frac{P^5}{2} \frac{A\xi^2 + B\eta^2 + C\zeta^2}{r^7}\xi \\
@@ -161,6 +171,7 @@ v = B\eta - \frac{5}{2} P^3 \frac{A\xi^2 + B\eta^2 + C\zeta^2}{r^5}\eta + \frac{
 w = C\zeta - \frac{5}{2} P^3 \frac{A\xi^2 + B\eta^2 + C\zeta^2}{r^5}\zeta + \frac{P^5}{2} \frac{A\xi^2 + B\eta^2 + C\zeta^2}{r^7}\zeta
 \end{cases}
 $$
+
 These simplify under specific conditions and approximations. The key is that the sphere perturbs the flow.)
 
 -----
@@ -174,9 +185,11 @@ The rate of energy dissipation per unit volume due to viscosity in a fluid with 
 He finds that the effective viscosity $k^*$ of the solution (or suspension) is related to the viscosity of the pure solvent $k$ and the volume fraction $\varphi$ occupied by the spheres ($\varphi = n \cdot V_{\text{sphere}} = n \cdot \frac{4}{3}\pi P^3$).
 
 **Einstein's Viscosity Equation (Page 17):**
+
 $$
 k^* = k (1 + \varphi)
 $$
+
 Where:
 *   $k^*$ is the viscosity of the solution.
 *   $k$ is the viscosity of the pure solvent.
@@ -243,22 +256,28 @@ mindmap
 The force $K$ acting on one mole of solute due to osmotic pressure gradient along the x-axis is related to the gradient of osmotic pressure $p$. The force on a single molecule is $K/N$.  
 If $m$ is the molecular weight and $\rho$ is the mass concentration:  
 Osmotic pressure $p$ for a dilute solution (van 't Hoff's law):
+
 $$
 p = \frac{R T}{m} \rho
 $$
+
 The force per unit mass in the direction of the x-axis that tends to cause diffusion is $-\frac{1}{\rho}\frac{\partial p}{\partial x}$. So the force on a single molecule of mass $(m/N)$ is $-(m/N) \frac{1}{\rho}\frac{\partial p}{\partial x}$.  
 The drift velocity $\omega$ of a molecule under a force $F_{\text{molecule}}$ is $\omega = F_{\text{molecule}} / (6\pi k P)$.  
 The force on one molecule due to the concentration gradient is found to be:
+
 $$
 \text{Force on one molecule} = - \frac{R T}{N} \frac{1}{\rho} \frac{\partial \rho}{\partial x}
 $$
+
 (This is derived from $p = (RT/m)\rho$, so $\partial p / \partial x = (RT/m) \partial \rho / \partial x$. The force on one mole is $-(m/\rho) \partial p / \partial x$, so on one molecule it is $-(m/N\rho) \partial p / \partial x = -(RT/N\rho)\partial\rho/\partial x$ approximately.)
 
 **Stokes-Einstein Equation for Diffusion Coefficient (Page 19, Eq. 4):**  
 By equating the force driving diffusion (derived from osmotic pressure) to the Stokes drag force on a spherical molecule, Einstein derives the diffusion coefficient $D$:
+
 $$
 D = \frac{R T}{N} \frac{1}{6\pi k P}
 $$
+
 Where:
 *   $R$ is the ideal gas constant.
 *   $T$ is the absolute temperature.
@@ -274,31 +293,42 @@ Einstein now has two independent equations involving $N$ and $P$:
 1.  From viscosity (§3, page 17, $k^*/k = 1+\varphi$, where $\varphi = n \frac{4}{3}\pi P^3$, and $n=N (\text{moles per unit volume})$ ):  
     On page 20, he uses $\varphi = n \cdot \frac{4}{3}\pi P^3$, where $n$ is the number of molecules per unit volume. If $\rho_s$ is the density of the solute substance and $\text{conc}$ is the concentration in mass per unit volume, then $\varphi = \text{conc} / \rho_s$. If $c_{\text{molar}}$ is molar concentration, $n = N c_{\text{molar}}$.  
     The equation from viscosity can be written as (page 20 reference, for the quantity $N P^3$ if $\varphi$ is properly defined in terms of $N, P$ concentration):
+
     $$
     N P^3 = \frac{3m}{4\pi \rho_0} \left( \frac{k^*}{k} - 1 \right) \quad \text{(derived from } \varphi = \frac{N \text{ (conc in moles/vol)} \cdot \frac{4}{3}\pi P^3}{\text{Volume}} \text{ and relating to } (k^*/k - 1)\text{)}
     $$
+
     More directly from page 21, relationship (A):
+
     $$
     N P^3 = \frac{3}{4\pi} \frac{m}{\rho_s} \left( \frac{k^*}{k} - 1 \right)
     $$
+
     (Where $m$ is molar mass, $\rho_s$ is the density of the solute material, $(k^*/k - 1)$ is per unit concentration mass/volume)  
     Actually, Einstein on page 21 writes:
+
     $$
     N P^3 = \frac{3m}{4\pi\sigma} \left(\frac{k^*}{k_0}-1\right)
     $$
+
     Where $\sigma$ is specific gravity of sugar and $(k^*/k_0-1)$ is per gram of sugar in solution.  
     The term for $N P^3$ is given more generally by (page 21, combining earlier results for $\varphi$):
+
     $$
     N P^3 = \frac{m}{A_z \frac{4}{3}\pi} \varphi_0
     $$
+
     where $A_z$ is Avogadro's number, $m$ is molar mass, $\varphi_0$ is the volume fraction yielded by $(k^*/k -1)$.  
     The specific equation from page 21 is:
+
     $$
     N P^3 = \frac{3m}{4\pi s} \left( \frac{k^*}{k} - 1 \right)
     $$
+
     (Here $m$ molecular weight, $s$ is related to specific volume of sugar)
 
-2.  From diffusion (Stokes-Einstein equation, page 19, Eq. 4):
+3.  From diffusion (Stokes-Einstein equation, page 19, Eq. 4):
+
     $$
     N P = \frac{R T}{6\pi k D}
     $$
@@ -310,16 +340,20 @@ Einstein uses experimental data for aqueous sugar solutions (sucrose) at $20^\ci
     $N \cdot \frac{4\pi}{3} P^3 = 2.45 \text{ cm}^3$ per gram-molecule (this is the molar volume of spheres). No, this is hydrodynamic volume per molecular weight.  
     This leads to $N \frac{4\pi}{3}P^3 = V_{\text{hydrodynamic, molar}}$.  
     Combining results, he provides (Page 21):
+
     $$
     N P = 2.08 \cdot 10^{16} \text{ (cgs units)}
     $$
+
     (After calculating $D$ from experiments using Stefan's data for sugar in water at $9.5^\circ C$, and using $k$ for water at $9.5^\circ C$).  
     And from viscosity measurements combined with specific volume analysis:  
     Instead of $NP^3=200$, he states "Aus den für $N P^3$ und $N P$ gefundenen Werten folgt, wenn wir die Verschiedenheit von $P$ bei $9,5^\circ$ und $20^\circ$ vernachlässigen," (From the values found for $N P^3$ and $N P$, if we neglect the difference of $P$ at $9.5^\circ$ and $20^\circ$, it follows:)  
     This implies he has a value for $N P^3$ from viscosity and experimental data on sugar solutions. The dissertation (page 18) calculates that 1 gram of sugar behaves in hydrodynamic interaction as if it has a volume of $2.45 \text{ cm}^3/N_A$ molecules if $N_A$ is the number of molecules in a gram-molecule. So $P^3 \approx (2.45 / (N_A \cdot 4/3 \pi))$.  
     My apologies, the text gets a value for $P$ and $N$ directly by solving the system.  
     The crucial step is on page 21: *Andrerseits wurde in §4 gefunden* (on the other hand, it was found in §4):  
-    $$ NP = \frac{RT}{6\pi k D} $$  
+
+    $$NP = \frac{RT}{6\pi k D}$$  
+
     The text states: *Diese beiden Gleichungen setzen uns in den Stand, die Grössen P und N einzeln zu berechnen* (These two equations enable us to calculate the quantities P and N individually). The other equation comes from viscosity studies which effectively gives information about $P$ relative to the size of sugar itself or $NP^3$.  
     It seems the primary value used is the one for $NP$, and then $P$ from specific volume measurement (page 18: $s=0.61 \text{ cm}^3/\text{g}$ for sugar. Volume of a sugar molecule related to this).
 
