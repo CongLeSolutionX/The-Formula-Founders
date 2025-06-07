@@ -314,24 +314,18 @@ Einstein now has two independent equations involving $N$ and $P$:
     Where $\sigma$ is specific gravity of sugar and $(k^*/k_0-1)$ is per gram of sugar in solution.  
     The term for $N P^3$ is given more generally by (page 21, combining earlier results for $\varphi$):
 
-    $$
-    N P^3 = \frac{m}{A_z \frac{4}{3}\pi} \varphi_0
-    $$
+    $$N P^3 = \frac{m}{A_z \frac{4}{3}\pi} \varphi_0$$
 
     where $A_z$ is Avogadro's number, $m$ is molar mass, $\varphi_0$ is the volume fraction yielded by $(k^*/k -1)$.  
     The specific equation from page 21 is:
 
-    $$
-    N P^3 = \frac{3m}{4\pi s} \left( \frac{k^*}{k} - 1 \right)
-    $$
+    $$N P^3 = \frac{3m}{4\pi s} \left( \frac{k^*}{k} - 1 \right)$$
 
     (Here $m$ molecular weight, $s$ is related to specific volume of sugar)
 
 3.  From diffusion (Stokes-Einstein equation, page 19, Eq. 4):
 
-    $$
-    N P = \frac{R T}{6\pi k D}
-    $$
+    $$N P = \frac{R T}{6\pi k D}$$
 
 **Calculations (Page 21):**  
 Einstein uses experimental data for aqueous sugar solutions (sucrose) at $20^\circ \text{C}$ (viscosity $k$) and $9.5^\circ \text{C}$ (diffusion $D$).
@@ -341,9 +335,7 @@ Einstein uses experimental data for aqueous sugar solutions (sucrose) at $20^\ci
     This leads to $N \frac{4\pi}{3}P^3 = V_{\text{hydrodynamic, molar}}$.  
     Combining results, he provides (Page 21):
 
-    $$
-    N P = 2.08 \cdot 10^{16} \text{ (cgs units)}
-    $$
+    $$N P = 2.08 \cdot 10^{16} \text{ (cgs units)}$$
 
     (After calculating $D$ from experiments using Stefan's data for sugar in water at $9.5^\circ C$, and using $k$ for water at $9.5^\circ C$).  
     And from viscosity measurements combined with specific volume analysis:  
