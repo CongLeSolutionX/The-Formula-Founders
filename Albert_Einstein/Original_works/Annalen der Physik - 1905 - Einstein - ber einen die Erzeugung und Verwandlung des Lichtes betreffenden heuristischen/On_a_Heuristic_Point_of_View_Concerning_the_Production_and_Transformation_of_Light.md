@@ -117,18 +117,24 @@ Max Planck resolved this by postulating that energy is exchanged in discrete pac
 
 **Planck's Radiation Law (as cited by Einstein, p. 136):**  
 For the energy density $\rho_{\nu}$ of radiation in equilibrium with resonators at temperature $T$:
+
 $$
 \rho_{\nu} = \frac{\alpha \nu^3}{e^{\frac{\beta \nu}{T}} - 1}
 $$
+
 Where $\alpha = 6.10 \times 10^{-56}$ and $\beta = 4.866 \times 10^{-11}$ are constants (in cgs units used in the paper).  
 Einstein notes that for large wavelengths or high temperatures (small $\nu/T$), this approximates to (Rayleigh-Jeans form):
+
 $$
 \rho_{\nu} \approx \frac{\alpha}{\beta} \nu^2 T
 $$
+
 Comparing this with the classical derivation, Einstein calculates Avogadro's number $N$ (p. 137):
+
 $$
 N = \frac{\beta}{\alpha} \frac{8 \pi R}{L^3} = 6.17 \times 10^{23}
 $$
+
 (using $R$ as the ideal gas constant and $L$ as the speed of light, although $L$ is usually $c$). In the paper, $L$ is often used for light speed.
 
 The crucial link is $\frac{R}{N} \beta = h$ (Planck's constant). Einstein's central idea is that these "energy elements" are not just a feature of matter's interaction with radiation but are inherent properties of light itself.
@@ -140,44 +146,60 @@ The crucial link is $\frac{R}{N} \beta = h$ (Planck's constant). Einstein's cent
 Einstein uses a powerful analogy based on entropy and statistical mechanics to argue for the "particle-like" nature of light. He considers monochromatic radiation of low density (where Wien's approximation of Planck's law is valid).
 
 **Wien's Radiation Law (approximation for low density / high frequency $\nu$, p. 139):**
+
 $$
 \rho = \alpha \nu^3 e^{-\frac{\beta \nu}{T}}
 $$
+
 **Entropy of Monochromatic Radiation (from Wien's law, p. 139):**  
 The entropy $\varphi$ per unit volume and frequency interval is given as:
+
 $$
 \varphi(\rho, \nu) = -\frac{\rho}{\beta \nu} \left\{ \lg \frac{\rho}{\alpha \nu^3} - 1 \right\}
 $$
+
 For a total energy $E$ of radiation of frequency $\nu$ in a volume $V$, so $\rho = E/V$. The change in total entropy $S = V\varphi$ when the volume changes from $V_0$ to $V$ (keeping $E, \nu$ constant) is:
+
 $$
 S - S_0 = \frac{E}{\beta \nu} \lg \left( \frac{V}{V_0} \right)
 $$
+
 **Analogy with an Ideal Gas:**  
 This equation has the exact same form as the entropy change for an ideal gas of $n$ particles expanding from $V_0$ to $V$:
+
 $$
 S - S_0 = n k_B \lg \left( \frac{V}{V_0} \right)
 $$
+
 (where $k_B = R/N_A$ is Boltzmann's constant).
 
 Comparing these, Einstein suggests that the radiation behaves as if it consists of $n_q$ independent energy quanta, where:
+
 $$
 n_q = \frac{E}{\beta \nu} \frac{N}{R} = \frac{E}{h \nu}
 $$
+
 (since $h = \frac{R}{N}\beta$).
 
 **Boltzmann's Principle ($S = k \log W$):**  
 Einstein then invokes Boltzmann's principle, which relates entropy $S$ to the statistical probability $W$ of a system's state. For $n_q$ independent particles (light quanta) originally in volume $V_0$, the probability of all $n_q$ particles randomly being found in a sub-volume $V$ is:
+
 $$
 W = \left( \frac{V}{V_0} \right)^{n_q}
 $$
+
 Using Boltzmann's principle $S - S_0 = \frac{R}{N} \lg W$ (as stated on p.141, using $R/N$ effectively as Boltzmann's constant $k_B$), substituting $W$:
+
 $$
 S - S_0 = \frac{R}{N} n_q \lg \left( \frac{V}{V_0} \right)
 $$
+
 Substituting $n_q = \frac{E N}{R \beta \nu}$:
+
 $$
 S - S_0 = \frac{R}{N} \left( \frac{E N}{R \beta \nu} \right) \lg \left( \frac{V}{V_0} \right) = \frac{E}{\beta \nu} \lg \left( \frac{V}{V_0} \right)
 $$
+
 This matches the entropy equation derived from Wien's law! 🎉 This powerful analogy suggests light, at least under these conditions, behaves like a collection of independent, localized energy quanta. Each quantum carries energy $E_{quantum} = \frac{R}{N}\beta\nu = h\nu$.
 
 <details open>
