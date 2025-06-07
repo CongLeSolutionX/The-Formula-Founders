@@ -141,9 +141,7 @@ For the fluid velocity components $u, v, w$ (here denoted $u_t, v_t, w_t$ (Einst
 
 3.  **Continuity Equation (Incompressibility):**
 
-    $$
-    \frac{\partial u}{\partial \xi} + \frac{\partial v}{\partial \eta} + \frac{\partial w}{\partial \zeta} = 0
-    $$
+    $$\frac{\partial u}{\partial \xi} + \frac{\partial v}{\partial \eta} + \frac{\partial w}{\partial \zeta} = 0$$
 
 From these, it follows that $\Delta p = 0$.
 
