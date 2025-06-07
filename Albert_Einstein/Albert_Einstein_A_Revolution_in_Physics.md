@@ -31,7 +31,7 @@ copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
 > 2. **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
 ---
 
-Albert Einstein (1879-1955) was a German-born theoretical physicist who is widely hailed as one of the most influential scientists of the 20th century and of all time. He developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics) [1]. His work is also known for its influence on the philosophy of science. Einstein is best known by the general public for his mass–energy equivalence formula $E = mc^2$, which has been dubbed "the world's most famous equation" [2, p. 231]. He received the 1921 Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect" [3], a pivotal step in the development of quantum theory.
+Albert Einstein (1879-1955) was a German-born theoretical physicist who is widely hailed as one of the most influential scientists of the 20th century and of all time. He developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics)[^1]. His work is also known for its influence on the philosophy of science. Einstein is best known by the general public for his mass–energy equivalence formula $E = mc^2$, which has been dubbed "the world's most famous equation" [2, p. 231]. He received the 1921 Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect" [3], a pivotal step in the development of quantum theory.
 
 ```mermaid
 ---
@@ -797,7 +797,7 @@ flowchart LR
 
 ### References
 
-1.  Pais, A. (1982). *'Subtle is the Lord…': The Science and the Life of Albert Einstein*. Oxford University Press.
+[^1]:  Pais, A. (1982). *'Subtle is the Lord…': The Science and the Life of Albert Einstein*. Oxford University Press.
 2.  Isaacson, W. (2007). *Einstein: His Life and Universe*. Simon & Schuster.
 3.  The Nobel Prize in Physics 1921. NobelPrize.org. Nobel Prize Outreach AB 2023. Retrieved from [https://www.nobelprize.org/prizes/physics/1921/summary/](https://www.nobelprize.org/prizes/physics/1921/summary/)
 4.  Fölsing, A. (1997). *Albert Einstein: A Biography*. Viking.
